@@ -13,7 +13,7 @@ import store from './store'
 
 
 
-const stripePromise = loadStripe('pk_test_FQ6MNjx0p8vsvmT2vdVePuJ100HQ1ZkxvE')
+const stripePromise = loadStripe('pk_test_xxxxxx')
 
 
 ReactDOM.render(
